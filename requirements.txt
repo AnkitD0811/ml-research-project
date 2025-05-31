@@ -6,3 +6,5 @@ scikit-learn
 imbalanced-learn
 ipympl
 tfds-nightly
+--find-links torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu128
+fastbook
