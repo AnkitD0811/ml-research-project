@@ -2,3 +2,4 @@ tf
 hello.py
 .virtual_documents
 .ipynb_checkpoints
+.venv
