@@ -15,7 +15,7 @@ jupyterlab-lsp
 python-lsp-server[all]
 ray[default]
 bayesian-optimization==1.4.3
-
+pydicom
 
 --extra-index-url https://download.pytorch.org/whl/cu128
 torch
