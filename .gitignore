@@ -3,6 +3,5 @@ hello.py
 .virtual_documents
 .ipynb_checkpoints
 .venv
-datasets/animal-faces/
+datasets/
 papers/
-lung-cancer-dataset/
