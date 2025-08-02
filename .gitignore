@@ -3,5 +3,6 @@ hello.py
 .virtual_documents
 .ipynb_checkpoints
 .venv
+.pdf
 datasets/
 papers/
