@@ -17,6 +17,8 @@ ray[default]
 bayesian-optimization==1.4.3
 pydicom
 timm
+python-dotenv
+torchinfo
 
 --extra-index-url https://download.pytorch.org/whl/cu128
 torch

@@ -2,6 +2,7 @@ tf
 hello.py
 .virtual_documents
 .ipynb_checkpoints
+.env
 .venv
 *.pdf
 datasets/
